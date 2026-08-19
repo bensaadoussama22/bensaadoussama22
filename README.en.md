@@ -4,6 +4,12 @@
 
 Developer passionate about building web and mobile applications. I like building real-world projects, from backend to interface, and learning by doing.
 
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bensaad-oussama)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=googlechrome&logoColor=white)](https://portfolio.bensd-ouss.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bensaadoussamaoo@gmail.com)
+
 ## 💻 Development Projects
 
 ### [link-wave-site](projects/link-wave-site.en.md)
@@ -41,3 +47,10 @@ One-page showcase website.
 ## 📊 Data Analysis Projects
 
 *Coming soon.*
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bensaadoussama22&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensaadoussama22&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
+</p>
