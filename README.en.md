@@ -1,13 +1,13 @@
-🇫🇷 Français | [🇬🇧 English](README.en.md)
+[🇫🇷 Français](README.md) | 🇬🇧 English
 
-# Salut, moi c'est Oussama 👋
+# Hi, I'm Oussama 👋
 
-Développeur passionné par la création d'applications web et mobiles. J'aime construire des projets concrets, du backend à l'interface, et apprendre en pratiquant.
+Developer passionate about building web and mobile applications. I like building real-world projects, from backend to interface, and learning by doing.
 
-## 💻 Projets Développement
+## 💻 Development Projects
 
 ### [link-wave-site](https://github.com/bensaadoussama22/link-wave-site)
-Application web de gestion (techniciens, signalement de pannes, notifications, localisation), conteneurisée avec Docker.
+Web management app (technicians, fault reporting, notifications, geolocation), containerized with Docker.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -15,7 +15,7 @@ Application web de gestion (techniciens, signalement de pannes, notifications, l
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ### [hanout](https://github.com/bensaadoussama22/hanout)
-Gestion de commerce de proximité, avec une app web et une app mobile.
+Local shop management, with a web app and a mobile app.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ Gestion de commerce de proximité, avec une app web et une app mobile.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### [khyee](https://github.com/bensaadoussama22/khyee)
-Application mobile de mise en relation entre clients et coiffeurs : recherche, prise de rendez-vous et suivi, avec un espace dédié pour les coiffeurs.
+Mobile app connecting clients and hairdressers: search, appointment booking and tracking, with a dedicated space for hairdressers.
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -32,12 +32,12 @@ Application mobile de mise en relation entre clients et coiffeurs : recherche, p
 ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### [website](https://github.com/bensaadoussama22/website)
-Site vitrine one-page.
+One-page showcase website.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📊 Projets Data Analyse
+## 📊 Data Analysis Projects
 
-*À venir.*
+*Coming soon.*
