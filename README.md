@@ -6,7 +6,7 @@ Développeur passionné par la création d'applications web et mobiles. J'aime c
 
 ## 💻 Projets Développement
 
-### [link-wave-site](https://github.com/bensaadoussama22/link-wave-site)
+### [link-wave-site](projects/link-wave-site.md)
 Application web de gestion (techniciens, signalement de pannes, notifications, localisation), conteneurisée avec Docker.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)

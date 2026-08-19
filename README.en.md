@@ -6,7 +6,7 @@ Developer passionate about building web and mobile applications. I like building
 
 ## 💻 Development Projects
 
-### [link-wave-site](https://github.com/bensaadoussama22/link-wave-site)
+### [link-wave-site](projects/link-wave-site.en.md)
 Web management app (technicians, fault reporting, notifications, geolocation), containerized with Docker.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
